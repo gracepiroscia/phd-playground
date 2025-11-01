@@ -1,2 +1,2 @@
 # phd-playground
-Small sandbox projects vaguely related to Phd
+Small sandbox exercises vaguely related to Phd
