@@ -13,7 +13,7 @@ def sun_ra_dec(date_string, latitude=-33.8596, elevation_limit=30):
     ----------
     date_string : str
         In format 'YYYY-MM-DD', e.g.
-        '2026-05-25'
+        '2026-05-25', in UTC.
     latitude : float
         Observer's latitude in degrees. Default
         is for Sydney Observatory= -33.8596
